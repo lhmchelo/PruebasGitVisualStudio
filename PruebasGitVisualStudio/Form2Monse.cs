@@ -15,6 +15,7 @@ namespace PruebasGitVisualStudio
         public Form2Monse()
         {
             InitializeComponent();
+            //Modificación Monse
         }
     }
 }
