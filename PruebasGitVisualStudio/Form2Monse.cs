@@ -15,7 +15,7 @@ namespace PruebasGitVisualStudio
         public Form2Monse()
         {
             InitializeComponent();
-            MessageBox.Show("Prueba línea leo");
+            //Modificación Monse
         }
     }
 }
