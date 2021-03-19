@@ -12,6 +12,7 @@ namespace PruebasGitVisualStudio
 {
     public partial class Form2Monse : Form
     {
+        private string prueba = "Prueba Leo";
         public Form2Monse()
         {
             InitializeComponent();
